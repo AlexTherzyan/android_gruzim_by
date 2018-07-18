@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="one">One</string>
+
+
+    <!--==================================== НОМЕР ОПЕРАТОРА ========================================-->
+    <string name="operator_phone">375292186387</string>
+    <string name="title_activity_user_cabinet">UserCabinet</string>
+    <string  name="large_text">
+
+       "КОНТАКТЫ:\n\n"
+
+        220006 г. Минск, ул. Маяковского 8 \n
+        Прием заказов и консультация каждый день с 8 до 22:00 \n
+        (Velcom) +375291805394 \n
+        (Viber) +375291805394 \n
+        E-mail: info@gruzim.by \n"
+
+РЕКВИЗИТЫ: \n\n
+Индивидуальный предприниматель
+Леонович Антон Петрович
+УНП 690817089
+Юридический адрес: 222160 Минская обл.,
+г. Жодино, ул. Гагарина, д.11, корп. А, кв.19
+Почтовый адрес: 220006 г. Минск, ул. Маяковского 8-163
+Банковские реквизиты:
+IBAN: BY51SOMA30130056560101000933
+в ЗАО «Идея банк» г. Минск, ул. З.Бядули, д.11
+BIC SWIFT: SOMABY22
+Тел. +375291805394
+E-mail: info@gruzim.by \n\n"
+
+    </string>
+    <!--=============================================================================================-->
+
+
+</resources>

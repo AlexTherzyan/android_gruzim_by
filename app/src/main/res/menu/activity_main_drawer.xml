@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/user_cabinet"
+            android:icon="@drawable/baseline_person_black_36dp"
+            android:title="Личный кабинет"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/baseline_import_contacts_black_36dp"
+            android:title="Журнал заказов"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/baseline_local_shipping_black_36dp"
+            android:title="Тарифы, автопарк"/>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/baseline_credit_card_black_36dp"
+            android:title="Оплата"/>
+        <item
+            android:id="@+id/documents"
+            android:icon="@drawable/baseline_business_center_black_36dp"
+            android:title="Документы"/>
+        <item
+            android:id="@+id/contacts"
+            android:icon="@drawable/baseline_contact_phone_black_36dp"
+            android:title="Контакты"/>
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/baseline_domain_black_36dp"
+            android:title="О компании"/>
+    </group>
+
+    <item>
+        <menu>
+            <item
+                android:id="@+id/exit"
+                android:icon="@drawable/baseline_exit_to_app_black_36dp"
+                android:title="Выйти"/>
+        </menu>
+    </item>
+
+</menu>
